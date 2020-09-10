@@ -1,0 +1,27 @@
+{
+  "name": "restream-code-challenge",
+  "version": "1.0.0",
+  "description": "Finds elevator states",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/capndave/restream-code-challenge.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "restream"
+  ],
+  "author": "David Thompson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capndave/restream-code-challenge/issues"
+  },
+  "homepage": "https://github.com/capndave/restream-code-challenge#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
